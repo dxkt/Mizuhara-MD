@@ -5069,7 +5069,7 @@ break
 
 
 
-case 'Chizuru': 'Mizuhara': 'Bot':
+case '':
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
 
